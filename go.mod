@@ -1,4 +1,4 @@
-module github.com/rplessl/gocover-cobertura
+module github.com/abvm/gocover-cobertura
 
 go 1.21
 
