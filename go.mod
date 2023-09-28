@@ -1,4 +1,4 @@
-module github.com/abvm/gocover-cobertura
+module github.com/avbm/gocover-cobertura
 
 go 1.21
 
